@@ -1,0 +1,119 @@
+D:\HeChuyenGia\HeChuyenGia\bin\Debug\HeChuyenGia.exe.config
+D:\HeChuyenGia\HeChuyenGia\bin\Debug\HeChuyenGia.exe
+D:\HeChuyenGia\HeChuyenGia\bin\Debug\HeChuyenGia.pdb
+D:\HeChuyenGia\HeChuyenGia\bin\Debug\Siticone.UI.dll
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.Properties.Resources.resources
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.csproj.GenerateResource.cache
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.csproj.CoreCompileInputs.cache
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.csproj.CopyComplete
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.exe
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.pdb
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.csprojAssemblyReference.cache
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.Home.resources
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.frTuVan.resources
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.frHome2.resources
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.frBenh.resources
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.frTapLuat.resources
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.frTrieuChung.resources
+D:\HeChuyenGia\HeChuyenGia\obj\Debug\HeChuyenGia.frThongTin.resources
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\HeChuyenGia.exe.config
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\HeChuyenGia.exe
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\HeChuyenGia.pdb
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Options.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Identity.Client.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Newtonsoft.Json.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Buffers.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Collections.Immutable.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Memory.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Numerics.Vectors.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Options.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.Identity.Client.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\Newtonsoft.Json.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Buffers.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Collections.Immutable.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Memory.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Numerics.Vectors.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.csprojAssemblyReference.cache
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.frBenh.resources
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.frHome2.resources
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.frTapLuat.resources
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.frThongTin.resources
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.frTrieuChung.resources
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.Home.resources
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.frTuVan.resources
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.Properties.Resources.resources
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.csproj.GenerateResource.cache
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.csproj.CopyComplete
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.exe
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\obj\Debug\HeChuyenGia.pdb
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\EntityFramework.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\EntityFramework.SqlServer.dll
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\EntityFramework.xml
+D:\DOWNLOAD\chuandoanga-main (1)\chuandoanga-main\HeChuyenGia\bin\Debug\EntityFramework.SqlServer.xml
