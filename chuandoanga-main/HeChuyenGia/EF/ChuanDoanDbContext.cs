@@ -19,39 +19,10 @@ namespace HeChuyenGia.EF
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<BENH_GA>()
-                .Property(e => e.MA_BENH)
-                .IsFixedLength()
-                .IsUnicode(false);
-
-            modelBuilder.Entity<CAU_HOI>()
-                .Property(e => e.MA_CH)
-                .IsFixedLength();
-
             modelBuilder.Entity<CAU_HOI>()
                 .HasMany(e => e.TRIEU_CHUNG)
                 .WithOptional(e => e.CAU_HOI)
                 .HasForeignKey(e => e.ID_CAUHOI);
-
-            modelBuilder.Entity<TAP_LUAT>()
-                .Property(e => e.MA_LUAT)
-                .IsFixedLength();
-
-            modelBuilder.Entity<TAP_LUAT>()
-                .Property(e => e.KET_LUAN)
-                .IsFixedLength();
-
-            modelBuilder.Entity<TRIEU_CHUNG>()
-                .Property(e => e.MA_TT)
-                .IsFixedLength();
-
-            modelBuilder.Entity<TRIEU_CHUNG>()
-                .Property(e => e.IMG)
-                .IsUnicode(false);
-
-            modelBuilder.Entity<TRIEU_CHUNG>()
-                .Property(e => e.ID_CAUHOI)
-                .IsFixedLength();
         }
     }
 }

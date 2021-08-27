@@ -135,6 +135,7 @@ namespace HeChuyenGia
             this.Controls.Add(this.data);
             this.Name = "frBenh";
             this.Text = "frBeng";
+            this.Load += new System.EventHandler(this.frBenh_Load);
             ((System.ComponentModel.ISupportInitialize)(this.data)).EndInit();
             this.ResumeLayout(false);
 

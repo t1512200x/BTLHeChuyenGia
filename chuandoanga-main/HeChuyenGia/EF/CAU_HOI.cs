@@ -15,8 +15,8 @@ namespace HeChuyenGia.EF
         }
 
         [Key]
-        [StringLength(10)]
-        public string MA_CH { get; set; }
+        [DatabaseGenerated(DatabaseGeneratedOption.None)]
+        public int MA_CH { get; set; }
 
         [StringLength(100)]
         public string TEN_CH { get; set; }

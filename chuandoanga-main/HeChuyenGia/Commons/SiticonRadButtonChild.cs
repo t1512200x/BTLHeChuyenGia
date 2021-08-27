@@ -9,6 +9,6 @@ namespace HeChuyenGia.Commons
     class SiticonRadButtonChild:SiticoneRadioButton
     {
         public string TextFlag { get; set; }
-        public string ChFlag { get; set; }
+        public int ChFlag { get; set; }
     }
 }

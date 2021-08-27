@@ -77,10 +77,5 @@ namespace HeChuyenGia
             }
         }
 
-        
-        private void data_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
     }
 }

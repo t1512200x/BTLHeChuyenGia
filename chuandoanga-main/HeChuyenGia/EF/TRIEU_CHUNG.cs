@@ -15,11 +15,7 @@ namespace HeChuyenGia.EF
         [StringLength(100)]
         public string TEN_TT { get; set; }
 
-        [StringLength(100)]
-        public string IMG { get; set; }
-
-        [StringLength(10)]
-        public string ID_CAUHOI { get; set; }
+        public int? ID_CAUHOI { get; set; }
 
         public virtual CAU_HOI CAU_HOI { get; set; }
     }

@@ -147,7 +147,6 @@ namespace HeChuyenGia
             this.ImgTT.Size = new System.Drawing.Size(237, 355);
             this.ImgTT.TabIndex = 2;
             this.ImgTT.TabStop = false;
-            this.ImgTT.Click += new System.EventHandler(this.ImgTT_Click);
             // 
             // label1
             // 

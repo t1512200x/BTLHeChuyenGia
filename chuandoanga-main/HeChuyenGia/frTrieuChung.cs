@@ -47,11 +47,6 @@ namespace HeChuyenGia
 
         }
 
-        private void ImgTT_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void data_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             int index = e.RowIndex;
